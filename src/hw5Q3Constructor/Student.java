@@ -13,7 +13,6 @@ public class Student {
 	}
 
 	public Student(String stName, int stID, char sex, boolean isProgrammer, float grade) {
-		super();
 		this.stName = stName;
 		this.stID = stID;
 		this.sex = sex;
